@@ -1,0 +1,13 @@
+name = "Create: Fishing Bobber Detector"
+filename = "bobberdetector-neoforge1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GRznXwf3/versions/wZOzsLr6/bobberdetector-neoforge1.21.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "ff9c8143b90b64c184ce75e83733089e4d416e1b629395cbb22d2a427ea853be9e3e11bbba960c87f439f9d817fe07b465b1c82d6017d6aff36a417b540e1671"
+
+[update]
+[update.modrinth]
+mod-id = "GRznXwf3"
+version = "wZOzsLr6"

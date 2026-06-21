@@ -1,0 +1,13 @@
+name = "AmpXtreme"
+filename = "ampxtreme-1.3.2_mc1.21.0-1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6nqoo77q/versions/uaov0jep/ampxtreme-1.3.2_mc1.21.0-1.21.4.jar"
+hash-format = "sha512"
+hash = "40c32a1e94b6432072fc8d2cc5a5e7b0d306fc76d4eec425129c259fcf6e6b4677bfbe75f6e6b02224a1425c2c481a5073195de06c7a895421663bcd8983ff9b"
+
+[update]
+[update.modrinth]
+mod-id = "6nqoo77q"
+version = "uaov0jep"

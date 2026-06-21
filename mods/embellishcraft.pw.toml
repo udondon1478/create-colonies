@@ -1,0 +1,13 @@
+name = "EmbellishCraft"
+filename = "embellishcraft-1.21.1-8.0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OYTC1n5i/versions/emsBdclG/embellishcraft-1.21.1-8.0.0.4.jar"
+hash-format = "sha512"
+hash = "3f79fb37cde0ff46e01cada49912a5cf6618d90fd400c213de73fa21b9b4ff2903151b082d97f21249b637bbdf93f283cd2fc059dc33ac600cb95e068ffe4925"
+
+[update]
+[update.modrinth]
+mod-id = "OYTC1n5i"
+version = "emsBdclG"

@@ -1,0 +1,13 @@
+name = "WorldWeaver Neoforge"
+filename = "worldweaver-21.0.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R8uGDQpB/versions/jJJtSGMZ/worldweaver-21.0.21.jar"
+hash-format = "sha512"
+hash = "bb56be55f01290973e544aa2137ce1b1923aa7de06c546c6aae9b9b183df9fb3e85067738d96482feb9a5b985027e9b34f5f90df603c8cc601b288513961ca01"
+
+[update]
+[update.modrinth]
+mod-id = "R8uGDQpB"
+version = "jJJtSGMZ"
