@@ -1,13 +1,13 @@
 name = "Lithostitched"
-filename = "lithostitched-1.7.5-neoforge-21.1.jar"
+filename = "lithostitched-1.7.10+beta4-neoforge-21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/XaDC71GB/versions/2L1EEQuD/lithostitched-1.7.5-neoforge-21.1.jar"
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/4mhJgBQx/lithostitched-1.7.10%2Bbeta4-neoforge-21.1.jar"
 hash-format = "sha512"
-hash = "867f35834e12cb7460a43ddf221706e504d7ea08f33cbbfdd0329867a3d20e9679687eb3aac2857d28c9566ec45f9946f4945c35eca6e7f902a24299f72d1a06"
+hash = "bec6b0e149c88e131f94ab7bd0ca71e08a06491945caa3d54214e3cf169728dcaa9381edc59da13e366a183dcb5482a3a67b2d6fb6f90e4f6f734bab1dee70e3"
 
 [update]
 [update.modrinth]
 mod-id = "XaDC71GB"
-version = "2L1EEQuD"
+version = "4mhJgBQx"
