@@ -5,7 +5,7 @@ packwiz でビルドし GitHub Pages から配信、サーバー起動時に自�
 
 - Pack URL: <https://udondon1478.github.io/create-colonies/pack.toml>
 - 対象サーバー: noraru-a1 上の Pelican volume `ad3ed947-40f9-4b39-92d0-cea60c9fbe20`
-- MC: 1.21.1 / NeoForge: 21.1.230
+- MC: 1.21.1 / NeoForge: 21.1.234
 
 ---
 
